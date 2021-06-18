@@ -4,7 +4,7 @@
 ## 1. Load Data
 
 ## 2. Exploratory Data
-  - 2.1. weet의 글자 개수, 단어 개수, 문장 개수의 분포
+  2.1. weet의 글자 개수, 단어 개수, 문장 개수의 분포
  
   - 2.2. Stopwords(불용어)의 차이가 있을까
   
