@@ -1,6 +1,6 @@
 # NLP-with-Disaster-Tweets
 
-1. Load Data
+## 1. Load Data
 
 ## 2. Exploratory Data
   - 2.1. weet의 글자 개수, 단어 개수, 문장 개수의 분포
@@ -24,14 +24,20 @@
 
 ## 4. Make Dataset & Embedding Layer
   - 4.1. Tokenization - 단어를 숫자로
+ 
   - 4.2. Padding - 모든 문장의 길이를 똑같이
+  
   - 4.3. Embedding Matrix - Glove
 
 ## 5. Data Split
 
 ## 6. Modeling & Training
   - 6.1. SimpleRNN
+  
   - 6.2. LSTM
+  
   - 6.3. LSTM with Attention
+  
   - 6.3. Transformer
+  
   - 6.4. BERT
