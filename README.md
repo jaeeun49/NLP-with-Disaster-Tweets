@@ -1,4 +1,5 @@
 # NLP-with-Disaster-Tweets
+NLP를 공부하며 해당 내용을 캐글 NLP-with-Disaster-Tweets에 적용해 본 분석자료입니다. 
 
 <br>
 
