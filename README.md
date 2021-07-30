@@ -9,7 +9,7 @@ NLP를 공부하며 해당 내용을 캐글 NLP-with-Disaster-Tweets에 적용�
 ## 1. Load Data
 
 ## 2. Exploratory Data
-   - weet의 글자 개수, 단어 개수, 문장 개수의 분포 
+   - tweet의 글자 개수, 단어 개수, 문장 개수의 분포 
    - Stopwords(불용어)의 차이가 있을까  
    - Wordcloud
 
